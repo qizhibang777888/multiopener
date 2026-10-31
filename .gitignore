@@ -1,0 +1,17 @@
+# 构建产物
+build/
+app-root/
+MultiOpener
+*.o
+
+# 图标生成中间产物
+AppIcon.iconset/
+composed_1024.png
+preview_512.png
+
+# 旧截图
+ui_preview*.png
+alert_preview.png
+
+# macOS
+.DS_Store
